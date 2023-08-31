@@ -1,0 +1,13 @@
+.App {
+background-color: white;
+}
+
+.Chip-border{
+    border-width: 0.2rem;
+}
+
+.Logo{
+    height: 3rem;
+    width: 15rem;
+}
+
